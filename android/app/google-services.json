@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190757180893",
+    "project_id": "park-here-989ad",
+    "storage_bucket": "park-here-989ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190757180893:android:908b09a0b39846a6335234",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6ZCXUDl1WZ2-vHkbj6FWveezfxbFF_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
